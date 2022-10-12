@@ -11,8 +11,7 @@ class HelloWorld{
         
     } 
     public function one(){
-        echo " I love My Mother";
-        echo "I love teachers";
+     echo "sus to Mus";
     }
 }
 
